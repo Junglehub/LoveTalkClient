@@ -1,2 +1,2 @@
 # LoveTalkClient
-社交交友apP
+社交交友APP
