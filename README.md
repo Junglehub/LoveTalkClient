@@ -1,2 +1,2 @@
 # LoveTalkClient
-社交交友app,你懂得
+社交交友apP
